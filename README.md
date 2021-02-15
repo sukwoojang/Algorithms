@@ -9,3 +9,5 @@
 -greedy algorithm<br>
 -dynamic programming<br>
 -quick sort<br>
+-cruskal<br>
+-prim
